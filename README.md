@@ -9,7 +9,7 @@ Input the following code in the fields.
 
 Get the Windows (Powershell) command from here:
 
-https://remotedesktop.google.com/headless
+https://file.technicalatg.com/K5dr
 
 Enter you Six digit Pin code to Login
 
